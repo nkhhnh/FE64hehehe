@@ -649,7 +649,7 @@ body {
     display: block;
     width: 100%;
     padding: 10px;
-    background-color: #0751f2;
+    background-color: #F45C4F;
     border: none;
     border-radius: 10px;
     color: #fff;
@@ -660,7 +660,7 @@ body {
 }
 
 .create-album-btn:hover {
-    background-color: #3a3fc3;
+    background-color: #be473e;
 }
 
 .album-list {
@@ -696,7 +696,7 @@ body {
 }
 
 .album-title:hover {
-    color: #af06fd;
+    color: #F2C849;
 }
 
 .album-songs {
